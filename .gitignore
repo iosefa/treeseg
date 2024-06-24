@@ -33,3 +33,7 @@
 
 #Directories
 /build/
+
+.idea/
+./treeseg_tutorial/
+./cmake-build-debug/
